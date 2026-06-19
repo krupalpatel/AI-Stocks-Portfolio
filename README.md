@@ -1,4 +1,4 @@
-# AI-Portfolio_STOCKS
+# AI_Portfolio_STOCKS
 
 
 1. Dell
