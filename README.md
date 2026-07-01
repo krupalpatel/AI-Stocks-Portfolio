@@ -3,5 +3,5 @@
 
 1. Dell
 2. ARM Holding
-3. QUALCOM
+3. QUALCOMM
 
