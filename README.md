@@ -6,4 +6,3 @@
 3. QUALCOMM
 4. PALANTIR
 5. TSMC
-6. 
