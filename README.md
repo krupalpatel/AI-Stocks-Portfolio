@@ -5,3 +5,4 @@
 2. ARM Holding
 3. QUALCOMM
 4. PALANTIR
+5. tsmc
